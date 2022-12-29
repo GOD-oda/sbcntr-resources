@@ -1,3 +1,5 @@
+[AWSコンテナ設計・構築［本格］入門](https://www.amazon.co.jp/AWS%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A%E8%A8%AD%E8%A8%88%E3%83%BB%E6%A7%8B%E7%AF%89%EF%BC%BB%E6%9C%AC%E6%A0%BC%EF%BC%BD%E5%85%A5%E9%96%80-%E6%96%B0%E4%BA%95-%E9%9B%85%E4%B9%9F-ebook/dp/B09DKZC1ZH/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
+
 # sbcntr-resources
 
 書籍用の各種リソースのダウンロードリポジトリです。
